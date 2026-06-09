@@ -8,7 +8,7 @@ export default defineAstroPaperConfig({
     author: "Kai",
     profile: "https://kaitolearnai.vercel.app",
     ogImage: "default-og.jpg",
-    lang: "vi",
+    lang: "en",
     timezone: "Asia/Ho_Chi_Minh",
     dir: "ltr",
   },
